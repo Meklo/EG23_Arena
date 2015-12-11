@@ -9,6 +9,10 @@ uses
 type
   TForm2 = class(TForm)
     btnOK: TButton;
+    lHowToPlay: TLabel;
+    mHowToPlay: TMemo;
+    lParam: TLabel;
+    mParam: TMemo;
     procedure btnOKClick(Sender: TObject);
   private
     { Déclarations privées }
@@ -27,5 +31,4 @@ procedure TForm2.btnOKClick(Sender: TObject);
 begin
     ModalResult := mrOk;
 end;
-
 end.
