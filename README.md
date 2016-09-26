@@ -1,3 +1,3 @@
 # EG23_Arena
 
-Projet d'EG23 à l'UTT, UV d'IHM consistant à développer une interface de simulation de combat
+Pascal school project developed thanks to Delphi IDE, the aim was to create an intuitive user interface for a windowed game based on randomness 
